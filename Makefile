@@ -1,5 +1,5 @@
 build: ## Build the container
-	docker build -t bcm-simple-alpha .
+	docker build -t bash-swearword-blue-moon-cow .
 
 run: build
-	docker run bcm-simple-alpha:latest
+	docker run bash-swearword-blue-moon-cow:latest
